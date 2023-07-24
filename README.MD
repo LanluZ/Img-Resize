@@ -11,7 +11,7 @@
 
 ## 下载
 
-
+https://github.com/LanluZ/Img-Resize/releases/tag/1.0
 
 ## 使用
 
