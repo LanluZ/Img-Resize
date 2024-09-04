@@ -29,6 +29,7 @@ https://github.com/LanluZ/Img-Resize/releases/tag/1.0
 运行前：
 
 ![001](./README/001.png)
+
 ![002](./README/002.png)
 
 运行后：
